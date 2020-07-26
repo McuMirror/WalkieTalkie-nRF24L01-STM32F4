@@ -1,1 +1,1 @@
-# Embedded-STM32F4
+# Walkie Talkie nRF24L01 STM32F4
